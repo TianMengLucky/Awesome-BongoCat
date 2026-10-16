@@ -2,7 +2,7 @@
 
 从 [BongoCat 免费模型中心](https://bongocat.pet/models/) 下载的免费版本，保留原始 ZIP 和作者预览图。
 
-2026-10-16 整理：当前收录 30 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 718,616,142 字节（约 685.3 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
+2026-10-16 整理：当前收录 35 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 745,446,973 字节（约 710.9 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
 
 目录格式：
 
@@ -60,3 +60,8 @@ python scripts/download_models.py
 | 「18」赞迪克-bongocat | [KAROKOI](https://space.bilibili.com/18791151) | 4.55 MiB | [预览](model/%E3%80%8C18%E3%80%8D%E8%B5%9E%E8%BF%AA%E5%85%8B-bongocat/preview.webp) | [ZIP](model/%E3%80%8C18%E3%80%8D%E8%B5%9E%E8%BF%AA%E5%85%8B-bongocat/model.zip) |
 | 蓝毒 | [简了个弋](https://admin.bongocat.pet/authors/116424e5-ba5d-4a55-bddc-93ffd74f0e6b) | 4.61 MiB | [预览](model/%E8%93%9D%E6%AF%92/preview.webp) | [ZIP](model/%E8%93%9D%E6%AF%92/model.zip) |
 | lion | [Friade](https://space.bilibili.com/179443596?spm_id_from=333.1007.0.0) | 4.81 MiB | [预览](model/lion/preview.webp) | [ZIP](model/lion/model.zip) |
+| 利姆露 | [余枫](https://b23.tv/MnMvACD) | 4.92 MiB | [预览](model/%E5%88%A9%E5%A7%86%E9%9C%B2/preview.webp) | [ZIP](model/%E5%88%A9%E5%A7%86%E9%9C%B2/model.zip) |
+| 饥荒-温蒂 | [童话君](https://space.bilibili.com/12755111) | 5.00 MiB | [预览](model/%E9%A5%A5%E8%8D%92-%E6%B8%A9%E8%92%82/preview.webp) | [ZIP](model/%E9%A5%A5%E8%8D%92-%E6%B8%A9%E8%92%82/model.zip) |
+| Bongo Cat Mver仪玄（仅键鼠无表情） | [陆吾吾每年都八岁](https://b23.tv/aoDFTmZ) | 5.08 MiB | [预览](model/Bongo%20Cat%20Mver%E4%BB%AA%E7%8E%84%EF%BC%88%E4%BB%85%E9%94%AE%E9%BC%A0%E6%97%A0%E8%A1%A8%E6%83%85%EF%BC%89/preview.webp) | [ZIP](model/Bongo%20Cat%20Mver%E4%BB%AA%E7%8E%84%EF%BC%88%E4%BB%85%E9%94%AE%E9%BC%A0%E6%97%A0%E8%A1%A8%E6%83%85%EF%BC%89/model.zip) |
+| Bongo Cat Mver爱丽丝（仅键鼠无表情） | [陆吾吾每年都八岁](https://b23.tv/aoDFTmZ) | 5.25 MiB | [预览](model/Bongo%20Cat%20Mver%E7%88%B1%E4%B8%BD%E4%B8%9D%EF%BC%88%E4%BB%85%E9%94%AE%E9%BC%A0%E6%97%A0%E8%A1%A8%E6%83%85%EF%BC%89/preview.webp) | [ZIP](model/Bongo%20Cat%20Mver%E7%88%B1%E4%B8%BD%E4%B8%9D%EF%BC%88%E4%BB%85%E9%94%AE%E9%BC%A0%E6%97%A0%E8%A1%A8%E6%83%85%EF%BC%89/model.zip) |
+| Bongo Cat Mver蕾米（仅键鼠无换装） | [陆吾吾每年都八岁](https://b23.tv/aoDFTmZ) | 5.34 MiB | [预览](model/Bongo%20Cat%20Mver%E8%95%BE%E7%B1%B3%EF%BC%88%E4%BB%85%E9%94%AE%E9%BC%A0%E6%97%A0%E6%8D%A2%E8%A3%85%EF%BC%89/preview.webp) | [ZIP](model/Bongo%20Cat%20Mver%E8%95%BE%E7%B1%B3%EF%BC%88%E4%BB%85%E9%94%AE%E9%BC%A0%E6%97%A0%E6%8D%A2%E8%A3%85%EF%BC%89/model.zip) |

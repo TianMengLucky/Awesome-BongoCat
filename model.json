@@ -268,5 +268,50 @@
     "folder_path": "model/lion",
     "preview_path": "model/lion/preview.webp",
     "sha256": "240ae38b03de5475d0acc3fc4a3862582695ea30ac37b095d2b914de079ef7ac"
+  },
+  {
+    "name": "利姆露",
+    "author": "余枫",
+    "author_url": "https://b23.tv/MnMvACD",
+    "repository_path": "model/利姆露/model.zip",
+    "folder_path": "model/利姆露",
+    "preview_path": "model/利姆露/preview.webp",
+    "sha256": "281cddc9521137ea5b8c47ea6d56220197e60da87d72bd7e9cff5fd24d518d3f"
+  },
+  {
+    "name": "饥荒-温蒂",
+    "author": "童话君",
+    "author_url": "https://space.bilibili.com/12755111",
+    "repository_path": "model/饥荒-温蒂/model.zip",
+    "folder_path": "model/饥荒-温蒂",
+    "preview_path": "model/饥荒-温蒂/preview.webp",
+    "sha256": "93afa0c83874807b6e080499958bd75176a1c65daa4e9e2e55dd5856126f25db"
+  },
+  {
+    "name": "Bongo Cat Mver仪玄（仅键鼠无表情）",
+    "author": "陆吾吾每年都八岁",
+    "author_url": "https://b23.tv/aoDFTmZ",
+    "repository_path": "model/Bongo Cat Mver仪玄（仅键鼠无表情）/model.zip",
+    "folder_path": "model/Bongo Cat Mver仪玄（仅键鼠无表情）",
+    "preview_path": "model/Bongo Cat Mver仪玄（仅键鼠无表情）/preview.webp",
+    "sha256": "ee74bc2e661eb23bd4b475d152675088aa5e9e150316eeae3b7fda72e322cf04"
+  },
+  {
+    "name": "Bongo Cat Mver爱丽丝（仅键鼠无表情）",
+    "author": "陆吾吾每年都八岁",
+    "author_url": "https://b23.tv/aoDFTmZ",
+    "repository_path": "model/Bongo Cat Mver爱丽丝（仅键鼠无表情）/model.zip",
+    "folder_path": "model/Bongo Cat Mver爱丽丝（仅键鼠无表情）",
+    "preview_path": "model/Bongo Cat Mver爱丽丝（仅键鼠无表情）/preview.webp",
+    "sha256": "5ddad25c4d616ef3f8c202ed9d004ddc7b239944585952a97d84321d51a0383a"
+  },
+  {
+    "name": "Bongo Cat Mver蕾米（仅键鼠无换装）",
+    "author": "陆吾吾每年都八岁",
+    "author_url": "https://b23.tv/aoDFTmZ",
+    "repository_path": "model/Bongo Cat Mver蕾米（仅键鼠无换装）/model.zip",
+    "folder_path": "model/Bongo Cat Mver蕾米（仅键鼠无换装）",
+    "preview_path": "model/Bongo Cat Mver蕾米（仅键鼠无换装）/preview.webp",
+    "sha256": "5a4793a25a971a36acf0d3eb9cc2094a725194155277088decb12b070c6dec1f"
   }
 ]
