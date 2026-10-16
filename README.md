@@ -2,7 +2,7 @@
 
 从 [BongoCat 免费模型中心](https://bongocat.pet/models/) 下载的免费版本，保留原始 ZIP 和作者预览图。
 
-2026-10-16 整理：当前收录 25 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 626,942,528 字节（约 597.9 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
+2026-10-16 整理：当前收录 30 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 718,616,142 字节（约 685.3 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
 
 目录格式：
 
@@ -55,3 +55,8 @@ python scripts/download_models.py
 | 清宵-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 46.70 MiB | [预览](model/%E6%B8%85%E5%AE%B5-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E6%B8%85%E5%AE%B5-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
 | 镜流桌宠(无表情版) | [宇痕冫](https://space.bilibili.com/348616056) | 62.48 MiB | [预览](model/%E9%95%9C%E6%B5%81%E6%A1%8C%E5%AE%A0%28%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88%29/preview.webp) | [ZIP](model/%E9%95%9C%E6%B5%81%E6%A1%8C%E5%AE%A0%28%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88%29/model.zip) |
 | 流萤桌宠+-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 67.63 MiB | [预览](model/%E6%B5%81%E8%90%A4%E6%A1%8C%E5%AE%A0%2B-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E6%B5%81%E8%90%A4%E6%A1%8C%E5%AE%A0%2B-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 阮梅桌宠(无表情版) | [宇痕冫](https://space.bilibili.com/348616056) | 69.85 MiB | [预览](model/%E9%98%AE%E6%A2%85%E6%A1%8C%E5%AE%A0%28%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88%29/preview.webp) | [ZIP](model/%E9%98%AE%E6%A2%85%E6%A1%8C%E5%AE%A0%28%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88%29/model.zip) |
+| deepseek桌宠 | [mefist](https://space.bilibili.com/365827963?) | 3.61 MiB | [预览](model/deepseek%E6%A1%8C%E5%AE%A0/preview.webp) | [ZIP](model/deepseek%E6%A1%8C%E5%AE%A0/model.zip) |
+| 「18」赞迪克-bongocat | [KAROKOI](https://space.bilibili.com/18791151) | 4.55 MiB | [预览](model/%E3%80%8C18%E3%80%8D%E8%B5%9E%E8%BF%AA%E5%85%8B-bongocat/preview.webp) | [ZIP](model/%E3%80%8C18%E3%80%8D%E8%B5%9E%E8%BF%AA%E5%85%8B-bongocat/model.zip) |
+| 蓝毒 | [简了个弋](https://admin.bongocat.pet/authors/116424e5-ba5d-4a55-bddc-93ffd74f0e6b) | 4.61 MiB | [预览](model/%E8%93%9D%E6%AF%92/preview.webp) | [ZIP](model/%E8%93%9D%E6%AF%92/model.zip) |
+| lion | [Friade](https://space.bilibili.com/179443596?spm_id_from=333.1007.0.0) | 4.81 MiB | [预览](model/lion/preview.webp) | [ZIP](model/lion/model.zip) |

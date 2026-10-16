@@ -223,5 +223,50 @@
     "folder_path": "model/流萤桌宠+-无表情版",
     "preview_path": "model/流萤桌宠+-无表情版/preview.webp",
     "sha256": "89aad93d9cb6634d438745ae93a9774aaf76bbd57578a82396c4b287dca89071"
+  },
+  {
+    "name": "阮梅桌宠(无表情版)",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/阮梅桌宠(无表情版)/model.zip",
+    "folder_path": "model/阮梅桌宠(无表情版)",
+    "preview_path": "model/阮梅桌宠(无表情版)/preview.webp",
+    "sha256": "cbe1c3cb72fd2649159a0cf5cb9f1410bff136b4107d0f2c5a76e514e0498f54"
+  },
+  {
+    "name": "deepseek桌宠",
+    "author": "mefist",
+    "author_url": "https://space.bilibili.com/365827963?",
+    "repository_path": "model/deepseek桌宠/model.zip",
+    "folder_path": "model/deepseek桌宠",
+    "preview_path": "model/deepseek桌宠/preview.webp",
+    "sha256": "03cf8e7e69b8629b2279ab0cabad91b8cfac849fae3f746da600b30726bf44ab"
+  },
+  {
+    "name": "「18」赞迪克-bongocat",
+    "author": "KAROKOI",
+    "author_url": "https://space.bilibili.com/18791151",
+    "repository_path": "model/「18」赞迪克-bongocat/model.zip",
+    "folder_path": "model/「18」赞迪克-bongocat",
+    "preview_path": "model/「18」赞迪克-bongocat/preview.webp",
+    "sha256": "106ddec004cbedc73a9d67b84655f46556d678709df9c67e47ca7afec859c45c"
+  },
+  {
+    "name": "蓝毒",
+    "author": "简了个弋",
+    "author_url": "https://admin.bongocat.pet/authors/116424e5-ba5d-4a55-bddc-93ffd74f0e6b",
+    "repository_path": "model/蓝毒/model.zip",
+    "folder_path": "model/蓝毒",
+    "preview_path": "model/蓝毒/preview.webp",
+    "sha256": "e8c7644ed70fd06b9d23bc9f5afd3ef1ccb15fe65f32844cd653e19d956c1a80"
+  },
+  {
+    "name": "lion",
+    "author": "Friade",
+    "author_url": "https://space.bilibili.com/179443596?spm_id_from=333.1007.0.0",
+    "repository_path": "model/lion/model.zip",
+    "folder_path": "model/lion",
+    "preview_path": "model/lion/preview.webp",
+    "sha256": "240ae38b03de5475d0acc3fc4a3862582695ea30ac37b095d2b914de079ef7ac"
   }
 ]
