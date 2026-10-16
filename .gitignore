@@ -1,0 +1,3 @@
+*.part
+download.log
+__pycache__/
