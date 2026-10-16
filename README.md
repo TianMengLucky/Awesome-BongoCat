@@ -2,7 +2,7 @@
 
 从 [BongoCat 免费模型中心](https://bongocat.pet/models/) 下载的免费版本，保留原始 ZIP 和作者预览图。
 
-2026-10-16 整理：当前收录 20 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 352,962,837 字节（约 336.6 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
+2026-10-16 整理：当前收录 25 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 626,942,528 字节（约 597.9 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
 
 目录格式：
 
@@ -50,3 +50,8 @@ python scripts/download_models.py
 | 守岸人-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 27.17 MiB | [预览](model/%E5%AE%88%E5%B2%B8%E4%BA%BA-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E5%AE%88%E5%B2%B8%E4%BA%BA-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
 | 菲比-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 34.73 MiB | [预览](model/%E8%8F%B2%E6%AF%94-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E8%8F%B2%E6%AF%94-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
 | 爱莉-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 35.52 MiB | [预览](model/%E7%88%B1%E8%8E%89-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E7%88%B1%E8%8E%89-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 新版银狼-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 39.21 MiB | [预览](model/%E6%96%B0%E7%89%88%E9%93%B6%E7%8B%BC-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E6%96%B0%E7%89%88%E9%93%B6%E7%8B%BC-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 露西亚-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 45.28 MiB | [预览](model/%E9%9C%B2%E8%A5%BF%E4%BA%9A-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E9%9C%B2%E8%A5%BF%E4%BA%9A-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 清宵-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 46.70 MiB | [预览](model/%E6%B8%85%E5%AE%B5-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E6%B8%85%E5%AE%B5-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 镜流桌宠(无表情版) | [宇痕冫](https://space.bilibili.com/348616056) | 62.48 MiB | [预览](model/%E9%95%9C%E6%B5%81%E6%A1%8C%E5%AE%A0%28%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88%29/preview.webp) | [ZIP](model/%E9%95%9C%E6%B5%81%E6%A1%8C%E5%AE%A0%28%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88%29/model.zip) |
+| 流萤桌宠+-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 67.63 MiB | [预览](model/%E6%B5%81%E8%90%A4%E6%A1%8C%E5%AE%A0%2B-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E6%B5%81%E8%90%A4%E6%A1%8C%E5%AE%A0%2B-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
