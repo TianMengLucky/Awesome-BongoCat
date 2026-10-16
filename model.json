@@ -88,5 +88,50 @@
     "folder_path": "model/星见雅-无表情版",
     "preview_path": "model/星见雅-无表情版/preview.webp",
     "sha256": "53e09d4b0ef151b7199bc88736b023ddf5910020443a07728a7662af302d6260"
+  },
+  {
+    "name": "仇远-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/仇远-无表情版/model.zip",
+    "folder_path": "model/仇远-无表情版",
+    "preview_path": "model/仇远-无表情版/preview.webp",
+    "sha256": "db56852beef001287a6cf7d8cd53537422aaed6f044ad7fbc9417266269c6be7"
+  },
+  {
+    "name": "尤诺-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/尤诺-无表情版/model.zip",
+    "folder_path": "model/尤诺-无表情版",
+    "preview_path": "model/尤诺-无表情版/preview.webp",
+    "sha256": "6bb3224e7c75f3b41ca1d8e8be514e8fcef8b7b59fc9f350fe64116d4935fde5"
+  },
+  {
+    "name": "爱弥斯-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/爱弥斯-无表情版/model.zip",
+    "folder_path": "model/爱弥斯-无表情版",
+    "preview_path": "model/爱弥斯-无表情版/preview.webp",
+    "sha256": "46ce68902c24230b6bf948f752d194005c3f81b9c9374ae3b2c93a985c67665a"
+  },
+  {
+    "name": "赛琳娜-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/赛琳娜-无表情版/model.zip",
+    "folder_path": "model/赛琳娜-无表情版",
+    "preview_path": "model/赛琳娜-无表情版/preview.webp",
+    "sha256": "84a10d7a64e1d3503b4173a8e8dda2a6088f7eef89fb9e308e14c0885da41479"
+  },
+  {
+    "name": "卡提-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/卡提-无表情版/model.zip",
+    "folder_path": "model/卡提-无表情版",
+    "preview_path": "model/卡提-无表情版/preview.webp",
+    "sha256": "29b7eeed2fa1c15a34f522e848bac444cc5b2698cbbf423b00587a16679c18ce"
   }
 ]
