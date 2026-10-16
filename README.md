@@ -2,7 +2,7 @@
 
 从 [BongoCat 免费模型中心](https://bongocat.pet/models/) 下载的免费版本，保留原始 ZIP 和作者预览图。
 
-2026-10-16 整理：保留原下载清单中 ZIP 最小的 5 个免费模型，ZIP 总计 9,134,645 字节（约 8.7 MiB）。已检查全部 ZIP 的 CRC、实际 SHA-256 和预览图。
+2026-10-16 整理：当前收录 10 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 87,961,046 字节（约 83.9 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
 
 目录格式：
 
@@ -25,3 +25,18 @@ python scripts/download_models.py
 ```
 
 脚本按现有 `model.json` 保留选定的模型，只下载社区页面提供“下载免费版”的模型，检查 ZIP CRC 和预览图，并生成商店索引。已存在的文件会复用。模型权利及使用条件以各作者声明和压缩包内说明为准，免费提供下载不代表统一授权转载或商用。
+
+## 模型列表
+
+| 模型 | 作者 | ZIP 大小 | 预览 | 下载 |
+| --- | --- | ---: | --- | --- |
+| xiaohei-cat | [树苗](https://admin.bongocat.pet/authors/15b2d975-220f-47de-97c5-37d0efb06169) | 1.47 MiB | [预览](model/xiaohei-cat/preview.webp) | [ZIP](model/xiaohei-cat/model.zip) |
+| lucky-plush-2 | [树苗](https://admin.bongocat.pet/authors/15b2d975-220f-47de-97c5-37d0efb06169) | 1.47 MiB | [预览](model/lucky-plush-2/preview.webp) | [ZIP](model/lucky-plush-2/model.zip) |
+| lucky2 | [树苗](https://admin.bongocat.pet/authors/15b2d975-220f-47de-97c5-37d0efb06169) | 1.47 MiB | [预览](model/lucky2/preview.webp) | [ZIP](model/lucky2/model.zip) |
+| sage免费版 | [Sisya](https://admin.bongocat.pet/authors/3886c5f7-9ea4-411c-81dd-a720cb7103f0) | 2.44 MiB | [预览](model/sage%E5%85%8D%E8%B4%B9%E7%89%88/preview.webp) | [ZIP](model/sage%E5%85%8D%E8%B4%B9%E7%89%88/model.zip) |
+| 月岛水希 | [めお_314](https://admin.bongocat.pet/authors/4f953388-fddd-45a9-82d0-dcf0974f00f9) | 1.85 MiB | [预览](model/%E6%9C%88%E5%B2%9B%E6%B0%B4%E5%B8%8C/preview.webp) | [ZIP](model/%E6%9C%88%E5%B2%9B%E6%B0%B4%E5%B8%8C/model.zip) |
+| 弗洛洛-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 11.60 MiB | [预览](model/%E5%BC%97%E6%B4%9B%E6%B4%9B-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E5%BC%97%E6%B4%9B%E6%B4%9B-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 莫宁-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 15.53 MiB | [预览](model/%E8%8E%AB%E5%AE%81-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E8%8E%AB%E5%AE%81-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 千咲-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 15.64 MiB | [预览](model/%E5%8D%83%E5%92%B2-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E5%8D%83%E5%92%B2-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 恐龙流萤-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 16.18 MiB | [预览](model/%E6%81%90%E9%BE%99%E6%B5%81%E8%90%A4-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E6%81%90%E9%BE%99%E6%B5%81%E8%90%A4-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 星见雅-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 16.23 MiB | [预览](model/%E6%98%9F%E8%A7%81%E9%9B%85-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E6%98%9F%E8%A7%81%E9%9B%85-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |

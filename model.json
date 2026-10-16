@@ -43,5 +43,50 @@
     "folder_path": "model/月岛水希",
     "preview_path": "model/月岛水希/preview.webp",
     "sha256": "421e8324a4844d86094966278f7f029ac1de03aaccb2023cff8f6b3aa768ba85"
+  },
+  {
+    "name": "弗洛洛-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/弗洛洛-无表情版/model.zip",
+    "folder_path": "model/弗洛洛-无表情版",
+    "preview_path": "model/弗洛洛-无表情版/preview.webp",
+    "sha256": "9b4ccac952dbb70c3a452c5413cfd5028ea8b88f73d45df9abad7f5243c52783"
+  },
+  {
+    "name": "莫宁-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/莫宁-无表情版/model.zip",
+    "folder_path": "model/莫宁-无表情版",
+    "preview_path": "model/莫宁-无表情版/preview.webp",
+    "sha256": "7b608e584bebaee019630682a3a0a26bc6dcd2d5f1b57a1c1d29098a9d51ba4d"
+  },
+  {
+    "name": "千咲-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/千咲-无表情版/model.zip",
+    "folder_path": "model/千咲-无表情版",
+    "preview_path": "model/千咲-无表情版/preview.webp",
+    "sha256": "e32b81b4f12329b23169b0bc69ba87f9191ab390a1dbfb13ee4c353424eb4eb4"
+  },
+  {
+    "name": "恐龙流萤-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/恐龙流萤-无表情版/model.zip",
+    "folder_path": "model/恐龙流萤-无表情版",
+    "preview_path": "model/恐龙流萤-无表情版/preview.webp",
+    "sha256": "156565320c90138a51def8288007bdbd74040816eed714e3e01e7eb7dc367e11"
+  },
+  {
+    "name": "星见雅-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/星见雅-无表情版/model.zip",
+    "folder_path": "model/星见雅-无表情版",
+    "preview_path": "model/星见雅-无表情版/preview.webp",
+    "sha256": "53e09d4b0ef151b7199bc88736b023ddf5910020443a07728a7662af302d6260"
   }
 ]
