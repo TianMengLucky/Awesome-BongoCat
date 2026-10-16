@@ -2,7 +2,7 @@
 
 从 [BongoCat 免费模型中心](https://bongocat.pet/models/) 下载的免费版本，保留原始 ZIP 和作者预览图。
 
-2026-10-16 整理：当前收录 15 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 199,092,256 字节（约 189.9 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
+2026-10-16 整理：当前收录 20 个免费模型，上限 35 个，优先收录宇痕冫的模型。ZIP 总计 352,962,837 字节（约 336.6 MiB）。全部 ZIP 已通过 CRC、SHA-256 及预览图检查。
 
 目录格式：
 
@@ -45,3 +45,8 @@ python scripts/download_models.py
 | 爱弥斯-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 20.79 MiB | [预览](model/%E7%88%B1%E5%BC%A5%E6%96%AF-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E7%88%B1%E5%BC%A5%E6%96%AF-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
 | 赛琳娜-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 22.91 MiB | [预览](model/%E8%B5%9B%E7%90%B3%E5%A8%9C-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E8%B5%9B%E7%90%B3%E5%A8%9C-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
 | 卡提-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 23.35 MiB | [预览](model/%E5%8D%A1%E6%8F%90-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E5%8D%A1%E6%8F%90-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 达妮娅-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 24.45 MiB | [预览](model/%E8%BE%BE%E5%A6%AE%E5%A8%85-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E8%BE%BE%E5%A6%AE%E5%A8%85-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 大月下-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 24.87 MiB | [预览](model/%E5%A4%A7%E6%9C%88%E4%B8%8B-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E5%A4%A7%E6%9C%88%E4%B8%8B-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 守岸人-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 27.17 MiB | [预览](model/%E5%AE%88%E5%B2%B8%E4%BA%BA-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E5%AE%88%E5%B2%B8%E4%BA%BA-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 菲比-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 34.73 MiB | [预览](model/%E8%8F%B2%E6%AF%94-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E8%8F%B2%E6%AF%94-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |
+| 爱莉-无表情版 | [宇痕冫](https://space.bilibili.com/348616056) | 35.52 MiB | [预览](model/%E7%88%B1%E8%8E%89-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/preview.webp) | [ZIP](model/%E7%88%B1%E8%8E%89-%E6%97%A0%E8%A1%A8%E6%83%85%E7%89%88/model.zip) |

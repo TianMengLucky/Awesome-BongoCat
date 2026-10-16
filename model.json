@@ -133,5 +133,50 @@
     "folder_path": "model/卡提-无表情版",
     "preview_path": "model/卡提-无表情版/preview.webp",
     "sha256": "29b7eeed2fa1c15a34f522e848bac444cc5b2698cbbf423b00587a16679c18ce"
+  },
+  {
+    "name": "达妮娅-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/达妮娅-无表情版/model.zip",
+    "folder_path": "model/达妮娅-无表情版",
+    "preview_path": "model/达妮娅-无表情版/preview.webp",
+    "sha256": "49bb25860f63ba88bf7b8d604c64763544742cc72521ce1ba8e6f2e4d89c8beb"
+  },
+  {
+    "name": "大月下-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/大月下-无表情版/model.zip",
+    "folder_path": "model/大月下-无表情版",
+    "preview_path": "model/大月下-无表情版/preview.webp",
+    "sha256": "d18fd5a1518a13382931d995fac575198f6db420278b4f402c8a42f11750f639"
+  },
+  {
+    "name": "守岸人-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/守岸人-无表情版/model.zip",
+    "folder_path": "model/守岸人-无表情版",
+    "preview_path": "model/守岸人-无表情版/preview.webp",
+    "sha256": "9b092993740a87df37c7faedf28e30dee0ced074609d22e353ef4d59168e0c52"
+  },
+  {
+    "name": "菲比-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/菲比-无表情版/model.zip",
+    "folder_path": "model/菲比-无表情版",
+    "preview_path": "model/菲比-无表情版/preview.webp",
+    "sha256": "26d0c268122132480b8fc27ccb1582853e2a8ab4502c18cea6bb611b4f578266"
+  },
+  {
+    "name": "爱莉-无表情版",
+    "author": "宇痕冫",
+    "author_url": "https://space.bilibili.com/348616056",
+    "repository_path": "model/爱莉-无表情版/model.zip",
+    "folder_path": "model/爱莉-无表情版",
+    "preview_path": "model/爱莉-无表情版/preview.webp",
+    "sha256": "3526ccdfd0b10350370374f664bed4921f71cb9599ab3f7d08b479b8a53500c3"
   }
 ]
